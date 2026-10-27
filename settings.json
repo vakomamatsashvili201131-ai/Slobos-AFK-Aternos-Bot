@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "MCPlayers",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": MCPlayers51.aternos.me,
+    "ip": "MCPlayers51.aternos.me",
     "port": 61506,
-    "version": "26.2",
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Vako201131"
     },
     "anti-afk": {
       "enabled": true,
